@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T01:14:25.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.8" etag="Uhrn-eZuIi7U0jk45yZs" type="github"><diagram name="Página-1" id="u2S5PKuPikYts0rGR-3p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T01:33:56.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="e-7uvPP29S8soY7cpduP" version="21.0.8" type="github">
+  <diagram name="Página-1" id="u2S5PKuPikYts0rGR-3p">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-2" value="Funcionário" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-GlYlqcr-Zi9w0tSnu7-3" target="9-GlYlqcr-Zi9w0tSnu7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-GlYlqcr-Zi9w0tSnu7-3" target="9-GlYlqcr-Zi9w0tSnu7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-3" value="Cliente" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-4" value="Caixa eletrônico" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-7" value="&lt;br&gt;Depositar dinheiro;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-9" value="Abrir conta;&lt;br&gt;Encerrar conta." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="560" width="165" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-14" value="&lt;br&gt;Sacar valor;&lt;br&gt;." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-15" value="&lt;br&gt;Emitir saldo;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="450" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-GlYlqcr-Zi9w0tSnu7-17" value="&lt;br&gt;Emitir extrato.." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
